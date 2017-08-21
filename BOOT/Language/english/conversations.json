@@ -1,0 +1,80 @@
+{
+    "conversations": [
+        [
+            "Hello",
+            "Hi",
+            "How are you doing?",
+            "I am doing well.",
+            "That is good to hear",
+            "Yes it is.",
+            "Can I help you with anything?",
+            "Yes, I have a question.",
+            "What is your question?",
+            "Could I borrow a cup of sugar?",
+            "I'm sorry, but I don't have any.",
+            "Thank you anyway",
+            "No problem"
+        ],
+        [
+            "How are you doing?",
+            "I am doing well, how about you?",
+            "I am also good.",
+            "That's good."
+        ],
+        [
+            "Have you heard the news?",
+            "What good news?"
+        ],
+        [
+            "What is your favorite book?",
+            "War and Peace"
+        ],
+        [
+            "I am working on a project",
+            "What are you working on?",
+            "Something secret"
+        ],
+        [
+          "I am working on a project.",
+          "What are you working on?",
+          "Upgrading you.",
+          "Oh, why thank you sir!"
+        ],
+        [
+            "Can I ask you a question?",
+            "Go ahead and ask."
+        ],
+        [
+          "That's fascinating",
+          "I know."
+        ],
+        [
+          "Interesting.",
+          "Indeed, really interesting."
+        ],
+        [
+          "I've updated your language files",
+          "Don't forget that I auto update them into the current database",
+          "I programmed that into you though, why would I forget",
+          "You tend to forget a lot of things."
+        ],
+        [
+          "How are you feeling today?",
+          "Quite fine sir, how about you?"
+        ],
+        [
+          "I'm not feeling all that well",
+          "Oh, why's that sir?",
+          "Somethings bothering me"
+        ],
+        [
+          "I'm feeling great",
+          "Oh, why's that sir?"
+        ],
+        [
+          "I got many things done today",
+          "That's amazing sir!"
+        ]
+
+    ]
+}

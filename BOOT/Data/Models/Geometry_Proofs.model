@@ -1,0 +1,69 @@
+Reflexive Property	A quantity is congruent (equal) to itself.  a = a 
+Symmetric Property	If a = b, then b = a.
+Transitive Property	If a = b and b = c, then a = c.
+Addition Postulate	If equal quantities are added to equal quantities, the sums are equal.
+Subtraction Postulate	If equal quantities are subtracted from equal quantities, the differences are equal.
+Multiplication Postulate	If equal quantities are multiplied by equal quantities, the products are equal.  (also Doubles of equal quantities are equal.)
+Division Postulate	If equal quantities are divided by equal nonzero quantities, the quotients are equal. (also Halves of equal quantities are equal.)
+Substitution Postulate	A quantity may be substituted for its equal in any expression.
+Partition Postulate	The whole is equal to the sum of its parts. Also:  Betweeness of Points:  AB + BC = AC Angle Addition Postulate:  m<ABC + m<CBD = m<ABD
+Construction	Two points determine a straight line.
+Construction	From a given point on (or not on) a line, one and only one perpendicular can be drawn to the line.
+Right Angles	All right angles are congruent.
+Straight Angles	 All straight angles are congruent.
+Congruent Supplements Supplements of the same angle, or congruent angles, are congruent.
+Congruent Complements Complements of the same angle, or congruent angles, are congruent. 
+Linear Pair If two angles form a linear pair, they are supplementary. Vertical Angles	Vertical angles are congruent.
+Triangle Sum The sum of the interior angles of a triangle is 180º.
+Exterior Angle The measure of an exterior angle of a triangle is equal to the sum of the measures of the two non-adjacent interior angles. The measure of an exterior angle of a triangle is greater than either non-adjacent interior angle.
+Base Angle Theorem (Isosceles Triangle) If two sides of a triangle are congruent, the angles opposite these sides are congruent.
+Base Angle Converse (Isosceles Triangle) If two angles of a triangle are congruent, the sides opposite these angles are congruent.
+Side-Side-Side (SSS) Congruence	If three sides of one triangle are congruent to three sides of  another triangle, then the triangles are congruent.
+Side-Angle-Side (SAS) Congruence If two sides and the included angle of one triangle are congruent to the corresponding parts of another triangle, the triangles are congruent.
+Angle-Side-Angle (ASA) Congruence If two angles and the included side of one triangle are congruent to the corresponding parts of another triangle, the triangles are congruent.
+Angle-Angle-Side (AAS) Congruence If two angles and the non-included side of one triangle are congruent to the corresponding parts of another triangle, the triangles are congruent.
+Hypotenuse-Leg (HL) Congruence (right triangle)	If the hypotenuse and leg of one right triangle are congruent to the corresponding parts of another right triangle, the two right triangles are congruent.
+CPCTC Corresponding parts of congruent triangles are congruent.
+Angle-Angle (AA) Similarity If two angles of one triangle are congruent to two angles of another triangle, the triangles are similar.
+SSS for Similarity If the three sets of corresponding sides of two triangles are in proportion, the triangles are similar.
+SAS for Similarity If an angle of one triangle is congruent to the corresponding angle of another triangle and the lengths of the sides including these angles are in proportion, the triangles are similar.
+Side Proportionality If two triangles are similar, the corresponding sides are in proportion.
+Mid-segment Theorem (also called mid-line) The segment connecting the midpoints of two sides of a triangle is parallel to the third side and is half as long.
+Sum of Two Sides The sum of the lengths of any two sides of a triangle must be greater than the third side 
+Longest Side In a triangle, the longest side is across from the largest angle. In a triangle, the largest angle is across from the longest side.
+Altitude Rule The altitude to the hypotenuse of a right triangle is the mean proportional between the segments into which it divides the hypotenuse. 
+Leg Rule Each leg of a right triangle is the mean proportional between the hypotenuse and the`projection of the leg on the hypotenuse.
+Corresponding Angles	If two parallel lines are cut by a transversal, then the pairs of corresponding angles are congruent.
+Corresponding Angles Converse	If two lines are cut by a transversal and the corresponding angles are congruent, the lines are parallel.
+Alternate Interior Angles If two parallel lines are cut by a transversal, then the alternate interior angles are congruent.
+Alternate Exterior Angles If two parallel lines are cut by a transversal, then the alternate exterior angles are congruent.
+Interiors on Same Side	If two parallel lines are cut by a transversal, the interior angles on the same side of the transversal are supplementary.
+Alternate Interior Angles Converse If two lines are cut by a transversal and the alternate interior angles are congruent, the lines are parallel.
+Alternate Exterior Angles Converse If two lines are cut by a transversal and the alternate exterior angles are congruent, the lines are parallel.
+Interiors on Same Side Converse	If two lines are cut by a transversal and the interior angles on the same side of the transversal are supplementary, the lines are parallel.
+Parallelogram	If one pair of sides of a quadrilateral is BOTH parallel and congruent, the quadrilateral is a parallelogram.
+Rectangle	If a parallelogram has one right angle it is a rectangle
+A parallelogram is a rectangle if and only if its diagonals are congruent.
+A rectangle is a parallelogram with four right angles.
+Rhombus	A rhombus is a parallelogram with four congruent sides.
+If a parallelogram has two consecutive sides congruent, it is a rhombus.
+A parallelogram is a rhombus if and only if each diagonal bisects a pair of opposite angles.
+A parallelogram is a rhombus if and only if the diagonals are perpendicular.
+Square	A square is a parallelogram with four congruent sides and four right angles.
+A quadrilateral is a square if and only if it is a rhombus and a rectangle.
+Trapezoid	A trapezoid is a quadrilateral with exactly one pair of parallel sides.
+Isosceles Trapezoid	An isosceles trapezoid is a trapezoid with congruent legs. A trapezoid is isosceles if and only if the base angles are congruent. A trapezoid is isosceles if and only if the diagonals are congruent. If a trapezoid is isosceles, the opposite angles are supplementary.
+Radius	In a circle, a radius perpendicular to a chord bisects the chord and the arc.
+In a circle, a radius that bisects a chord is perpendicular to the chord.
+In a circle, the perpendicular bisector of a chord passes through the center of the circle.
+If a line is tangent to a circle, it is perpendicular to the radius drawn to the point of tangency.
+Chords In a circle, or congruent circles, congruent chords are equidistant from the center. (and converse)
+Chords In a circle, or congruent circles, congruent chords have congruent arcs. (and converse0
+Chords In a circle, parallel chords intercept congruent arcs
+Chords In the same circle, or congruent circles, congruent central angles have congruent chords (and converse)
+Tangents Tangent segments to a circle from the same external point are congruent
+Arcs In the same circle, or congruent circles, congruent central angles have congruent arcs. (and converse)
+Angles An angle inscribed in a semi-circle is a right angle.
+In a circle, inscribed angles that intercept the same arc are congruent.
+The opposite angles in a cyclic quadrilateral are supplementary
+In a circle, or congruent circles, congruent central angles have congruent arcs.
