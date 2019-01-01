@@ -417,29 +417,6 @@ class spn():
                             med_term = conc_term.concordance(term)
                             rand = [med_term]
                             Speech.say(rand,n,mixer)
-                        if ('stock opening') in message:
-                            message = message.replace("stock opening", "")
-                            #Search the stock database for the given company name
-                            df[df['Name'].str.contains(message)]
-                            #Further break down the stock table, and find the first hit.
-                            TableDi = x.iloc[-1]['Symbol']
-                            #Now it's easy sailing.
-                            TableConv = stocks.Share(TableDi)
-                            rand = ['The opening value of' + message + 'is: ' + TableConv.get_open()]
-                            Speech.say(rand,n,mixer)
-                        if ('stock price') in message:
-                            message = message.replace("stock price", "")
-                            #Saearh the stock database for the given company name
-                            df[df['Name'].str.contains(message)]
-                            #Further break down the stock table, and find the first hit.
-                            TableDi = x.iloc[-1]['Symbol']
-                            #Now it's easy sailing. x2
-                            TableConv = stocks.Share(TableDi)
-                            rand = ['The price value of' + message + 'is: ' + TableConv.get_price()]
-                            Speech.say(rand,n,mixer)
-                        if ('image scan') or ('scan this image') or ('scan image') in message:
-                            #Send start command to the still image recognizer class
-                            Intelligence.sIC()
                         wrdl1 = ['what city', 'address']
                         if wrdll in message
                             client = googlemaps.Client(key='register for a key here')
@@ -458,9 +435,6 @@ class spn():
                                     Speech.say(rand,n,mixer)
                             except IndexError:
                                 print("")
-
-                        if ('what') and ('raymond') in message:
-
 
                         else:
                             print(null_error)
